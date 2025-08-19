@@ -7,6 +7,7 @@
   background-color: var(--colors-scheme-surface-surface);
   border-radius: var(--numbers-corners-XX-large-14m-duplicate);
   overflow: hidden;
+  margin: 0 auto;
 }
 
 .desktop .section-hero-part {
